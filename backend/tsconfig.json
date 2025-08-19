@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true,
+    "removeComments": true,
+    "sourceMap": false,
+    "outDir": "dist",
+    "rootDir": "src",
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noImplicitAny": true,
+    "erasableSyntaxOnly": false,
+    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "types": ["node"]
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist/*", "src/static"]
+}

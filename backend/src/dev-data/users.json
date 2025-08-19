@@ -1,0 +1,107 @@
+[
+  {
+    "email": "john@mail.com",
+    "nickname": "ember_mist",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=68",
+    "active": true
+  },
+  {
+    "email": "olivia@mail.com",
+    "nickname": "ArcticMuse",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=44",
+    "active": true
+  },
+  {
+    "email": "luna@mail.com",
+    "nickname": "LunaCore23",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=35",
+    "active": true
+  },
+  {
+    "email": "bill@mail.com",
+    "nickname": "neonTiger",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=62",
+    "active": true
+  },
+  {
+    "email": "sophia@mail.com",
+    "nickname": "frostByte1",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=66",
+    "active": true
+  },
+  {
+    "email": "OrlqgsG@mail.com",
+    "nickname": "OrlqgsG",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=59",
+    "active": true
+  },
+  {
+    "email": "amelia@mail.com",
+    "nickname": "ghostLine9",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=37",
+    "active": true
+  },
+  {
+    "email": "james@mail.com",
+    "nickname": "IronShade",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "active": true
+  },
+  {
+    "email": "emily@mail.com",
+    "nickname": "emily_blue",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=63",
+    "active": true
+  },
+  {
+    "email": "lucas@mail.com",
+    "nickname": "StarDash9",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=67",
+    "active": true
+  },
+  {
+    "email": "daniel@mail.com",
+    "nickname": "emoPing",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=42",
+    "active": true
+  },
+  {
+    "email": "charlotte@mail.com",
+    "nickname": "char_lotte",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "active": true
+  },
+  {
+    "email": "silvester@mail.com",
+    "nickname": "silver5",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=65",
+    "active": true
+  },
+  {
+    "email": "josh@mail.com",
+    "nickname": "pandaLover",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=50",
+    "active": true
+  },
+  {
+    "email": "eric@mail.com",
+    "nickname": "NeonPhantom",
+    "password": "12345678",
+    "avatar": "https://i.pravatar.cc/150?img=41",
+    "active": true
+  }
+]
